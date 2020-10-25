@@ -11,7 +11,7 @@
   - [brainglobe](https://github.com/brainglobe/bg-atlasapi)
   - [pyinspect](https://github.com/FedeClaudi/pyinspect) (the python package for lazy programmers)
   - [python CV rendered](https://github.com/FedeClaudi/My_CV)
-  - [knowledge base](https://github.com/FedeClaudi/knowldege_base) (a minimalist note taking app in your terminal)
+  - [donote](https://github.com/FedeClaudi/donote) (a minimalist note taking app in your terminal)
   
 
 
