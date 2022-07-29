@@ -16,6 +16,8 @@ Hey, I'm a neuroscientist writing software for neuroscientists & everyone else t
 Recently I got involved with developing Julia language software like Term: https://fedeclaudi.github.io/Term.jl/stable/ 
 which aim to make everyone's Julia experience a bit better.
 If you like my work, please condier supporting it!
+
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C5E36Z2)
 
 
