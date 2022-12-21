@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![fedeclaudi's github stats](https://github-readme-stats.vercel.app/api?username=fedeclaudi&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![fedeclaudi's github stats](https://github-readme-stats.vercel.app/api?username=fedeclaudi&count_private=true)
 
 
 Hey, I'm a neuroscientist writing software for neuroscientists & everyone else too!
@@ -11,17 +11,13 @@ Hey, I'm a neuroscientist writing software for neuroscientists & everyone else t
   - [brainglobe](https://github.com/brainglobe/bg-atlasapi)
   - [pyinspect](https://github.com/FedeClaudi/pyinspect) (the python package for lazy programmers)
   - [python CV rendered](https://github.com/FedeClaudi/My_CV)
-  - [donote](https://github.com/FedeClaudi/donote) (a minimalist note taking app in your terminal)
   
-Recently I got involved with developing Julia language software like Term: https://fedeclaudi.github.io/Term.jl/stable/ 
-which aim to make everyone's Julia experience a bit better.
-If you like my work, please condier supporting it!
-
+More recently, I got involed in developing **Julia** packages such as [Term.jl](https://github.com/FedeClaudi/Term.jl) and I plan on doing more open source software development in Julia. If you like my work, please consider sponsoring me!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C5E36Z2)
 
 
 
 - 📫 How to reach me:
-  - through twitter [@Federico_claudi](Federico_claudit)
-  - through [fedeclaudi.github.io](https://fedeclaudi.github.io/)
+  - through twitter [@Federico_claud](https://twitter.com/Federico_claudi) on Twitter
+  - through my website [fedeclaudi.github.io](https://fedeclaudi.github.io/)
