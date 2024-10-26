@@ -10,14 +10,12 @@ Hey, I'm a neuroscientist writing software for neuroscientists & everyone else t
   - [brainrender](https://github.com/brainglobe/brainrender)
   - [brainglobe](https://github.com/brainglobe/bg-atlasapi)
   - [pyinspect](https://github.com/FedeClaudi/pyinspect) (the python package for lazy programmers)
-  - [python CV rendered](https://github.com/FedeClaudi/My_CV)
+  - [python CV renderer](https://github.com/FedeClaudi/My_CV)
   
 More recently, I got involed in developing **Julia** packages such as [Term.jl](https://github.com/FedeClaudi/Term.jl) and I plan on doing more open source software development in Julia. If you like my work, please consider sponsoring me!
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C5E36Z2)
 
 
 
 - 📫 How to reach me:
-  - through twitter [@Federico_claud](https://twitter.com/Federico_claudi) on Twitter
+  - through twitter [@Federico_claudi](https://twitter.com/Federico_claudi) on Twitter
   - through my website [fedeclaudi.github.io](https://fedeclaudi.github.io/)
